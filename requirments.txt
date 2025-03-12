@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-tensorflow
+tensorflow-cpu==2.12.0  # Use CPU version to avoid compatibility issues
 scikit-learn
 matplotlib
 seaborn
